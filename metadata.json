@@ -1,0 +1,5 @@
+{
+  "name": "LSC Coin Wallet",
+  "description": "A web application to manage your LSC Coins. Users can register, login, generate coins, send them to other users, and view their transaction history.",
+  "requestFramePermissions": []
+}
